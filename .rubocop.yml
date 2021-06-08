@@ -34,3 +34,7 @@ Style/WordArray:
 
 Style/SymbolArray:
   Enable: false
+
+Rails/FilePath:
+  Exclude:
+    - "config/environments/development.rb"
